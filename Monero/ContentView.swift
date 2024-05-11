@@ -159,7 +159,7 @@ struct ContentView: View {
         }
         
         .sheet(isPresented: $isBudgetWindowVisible) {
-            // Вместо Text("Новое окно") здесь будет ваше представление нового окна кредитной карты
+            // Вместо Text("Новое окно") здесь будет 11ваше представление нового окна кредитной карты
             Text("Here u are able to see ur budget")
         }
         
